@@ -1,1 +1,2 @@
 # Sanchit-Kumar-Portfolio
+Starts with a name and navigation menu.Includes a welcome message.“About Me” section has a profile photo and short intro.Projects list includes portfolio website, Medium-style blog, birthday card, and contact form.Features a simple birthday card message.Shows sample blog posts.Technical skills are listed in a small table.Contact form for messages at the end.All elements built using basic HTML for beginners.Purpose: introduce the person, show skills and projects, provide contact option.
