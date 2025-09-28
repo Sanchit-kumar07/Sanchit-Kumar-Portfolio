@@ -3,3 +3,10 @@
 - A navigation menu is placed underneath so anyone visiting can easily jump to different sections, like About, Projects, Birthday Card, Medium Clone (blog), and Contact.
 - Beneath the navigation, there’s a brief welcome message introducing the purpose of the site—showing work and sharing learning progress.
 - The About Me section features a profile photo alongside a short paragraph about interests and motivation for web development.
+- The Projects section lists completed exercises and sample websites, with one sentence descriptions for each: a portfolio site, blog layout demo, digital birthday card, and a simple contact form.
+- A special Birthday Card area offers a friendly greeting, using basic HTML to demonstrate creativity beyond just technical skill.
+- The Medium Clone section is organized like a blog, displaying two example posts with their titles, dates, and summaries.
+- Technical skills are summarized in a clean table, highlighting basic abilities in HTML, CSS, and beginner-level JavaScript.
+- At the bottom, the contact form lets visitors send messages by filling out their name, email, and a short note.
+- The entire website relies on straightforward HTML: no complex code or advanced features, just well-organized sections using tags like headings, paragraphs, tables, images, and forms.
+- Its main aim is to introduce the owner, describe projects and growing skills, and make it simple for anyone to get in touch
